@@ -1,7 +1,7 @@
 ### learningCanvas
 + 项目简介
 
-本页面是一个简单的交互页面。页面中有一张图片，鼠标移入图片时，图片上渐显出现闪烁的星星，鼠标移出星星渐隐。
+  本页面是一个简单的交互页面。页面中有一张图片，鼠标移入图片时，图片上渐显出现闪烁的星星，鼠标移出星星渐隐。
 + 使用到的技术
   - CANVAS
   - Javascript
@@ -16,6 +16,6 @@
   - CANVAS的save、restore方法的配套使用，以及globalAlpha方法调整透明度
   
 
-[page preview](http://htmlpreview.github.io/?https://github.com/jothy1023/learningCanvas/blob/master/starGirl/index.html)
+[项目预览](http://htmlpreview.github.io/?https://github.com/jothy1023/learningCanvas/blob/master/starGirl/index.html)
 
 Learn from：<http://www.imooc.com>
