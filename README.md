@@ -8,10 +8,13 @@
 
 + 项目重点难点
   - requestAnimFrame方法
+    
     根据电脑配置选择合适的setTimeout速度
   - gameloop 方法
+    
     调用requestAnimFrame方法实现定时渲染页面
   - Javascript的类
+    
     由画一个星星到画多个星星的实现。利用js的类，新增原型方法与属性，生成多个实例。
   - CANVAS的save、restore方法的配套使用，以及globalAlpha方法调整透明度
   
